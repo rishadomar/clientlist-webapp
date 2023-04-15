@@ -1,4 +1,5 @@
 import React from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import firebase from './FirebaseConfig';
 import './App.css';
 
